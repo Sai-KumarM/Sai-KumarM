@@ -1,5 +1,8 @@
 # Sai Kumar Murugavel 👋
 
+**'Data Analyst (Data Exploration, Visualization, Business Intelligence)'**
+
+
 <!--
 **Sai-KumarM/Sai-KumarM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
