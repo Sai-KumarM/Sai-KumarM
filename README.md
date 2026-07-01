@@ -157,9 +157,9 @@ Cloud data engineering project for analyzing COVID-19 datasets using Azure servi
 
 <div align="center">
 
-![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sai-KumarM&show_icons=true&theme=tokyonight)
+![Sai's GitHub stats](https://github-stats-extended.vercel.app/api?username=Sai-KumarM&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-KumarM&layout=compact&theme=tokyonight)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Sai-KumarM&layout=compact&theme=tokyonight)
 
 </div>
 
