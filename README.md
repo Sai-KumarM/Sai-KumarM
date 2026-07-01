@@ -151,20 +151,6 @@ Cloud data engineering project for analyzing COVID-19 datasets using Azure servi
 - SQL optimization: indexing, joins, window functions, CTEs, query plans
 - Observability: logging, monitoring, alerts, lineage, and auditability
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Sai's GitHub stats](https://github-stats-extended.vercel.app/api?username=Sai-KumarM&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Sai-KumarM&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 I'm currently strengthening my profile around enterprise-grade Data Engineering, including:
