@@ -151,15 +151,6 @@ Cloud data engineering project for analyzing COVID-19 datasets using Azure servi
 - SQL optimization: indexing, joins, window functions, CTEs, query plans
 - Observability: logging, monitoring, alerts, lineage, and auditability
 
-## 🎯 Current Focus
-
-I'm currently strengthening my profile around enterprise-grade Data Engineering, including:
-
-- Building portfolio projects that reflect real business pipelines
-- Practicing SQL, Python, PySpark, and system design interview questions
-- Documenting data engineering concepts through LinkedIn and GitHub
-- Creating project READMEs that explain architecture, trade-offs, and business value
-
 ---
 
 ## 📫 Connect With Me
